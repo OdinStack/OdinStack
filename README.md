@@ -30,6 +30,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/raiyanshikoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raiyanshikoh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/odinstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="odinstack" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/raiyanshikoh28" target="blank"><img align="center" src="https://cdn.simpleicons.org/tryhackme/white" alt="TryHackMe" height="30" width="40" /></a>
+<a href="mailto:raiyanshikoh@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" /></a>
+<a href="https://instagram.com/raiyaaan.ss" target="_blank"><img align="center" src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
