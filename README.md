@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=OdinStack&theme=dark" alt="OdinStack Trophies" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=OdinStack&theme=onedark" alt="OdinStack Trophies" />
   </a> 
 </p>
 <h3 align="left">Connect with me:</h3>
