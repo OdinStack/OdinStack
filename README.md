@@ -8,7 +8,7 @@
 
 <br/>
 
-### A passionate developer from India interested in AI, Systems Design, MERN, and cybersecurity.
+### A passionate developer from India interested in AI, Systems Design, MERN, and Cybersecurity.
 ### I like building cool stuff, trying out new tech, and learning how things work along the way.
 
 </div>
